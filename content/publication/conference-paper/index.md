@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Viruses are large'
 authors:
   - Monir
   - Benjamin Minch
