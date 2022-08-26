@@ -18,7 +18,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Viruses are very Large
+publication: Nature
 publication_short: 
 
 abstract: giant viruses.
