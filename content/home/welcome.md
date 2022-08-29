@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
   Monir Lab
-hero_media: welcome.jpg
+hero_media: giantvirus.jpeg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
