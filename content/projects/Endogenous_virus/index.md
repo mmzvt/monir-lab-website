@@ -1,8 +1,8 @@
 ---
 title: Endogenous Viruses in Eukaryotes
-![screen reader text](viral.png)
----
 
+---
+![screen reader text](viral.png)
 Viruses are big
 
 <!--more-->
