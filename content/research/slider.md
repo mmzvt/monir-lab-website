@@ -33,7 +33,7 @@ content:
         media: contact.jpg
       link:
         text: Learn More
-        url: ../contact/
+        url: ../projects/Endogenous_virus/
     - title: Polar algae
       content: 'Just opened last month!'
       align: right
