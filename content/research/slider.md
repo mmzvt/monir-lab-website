@@ -24,7 +24,7 @@ content:
         brightness: 0.7
         media: coders.jpg
     - title: Endogenous viral elements
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+      content: 'The viruses inside the genome'
       align: left
       background:
         position: center
