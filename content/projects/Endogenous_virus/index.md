@@ -1,5 +1,6 @@
 ---
 title: Endogenous Viruses in Eukaryotes
+image: viral.png
 ---
 
 Viruses are big
