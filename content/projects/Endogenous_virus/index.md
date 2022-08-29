@@ -3,7 +3,7 @@ title: Endogenous Viruses in Eukaryotes
 
 ---
 
-Viruses are big
+_Many viral elements have been found inside of host eukaryote genomes. Who knows what they are doing_
 
 <!--more-->
 ![screen reader text](viral.png)
