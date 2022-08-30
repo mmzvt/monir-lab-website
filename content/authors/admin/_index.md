@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Benjamin Minch
+title: Mohammad Moniruzzaman
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Ph.D. Student
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
   - name: University of Miami RSMAS
-    url: ''
+    url: 'https://www.earth.miami.edu/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include giant virus ecology.
@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'm.monir@miami.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
