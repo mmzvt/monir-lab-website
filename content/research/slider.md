@@ -15,36 +15,34 @@ design:
 
 content:
   slides:
-    - title: Welcome to the group
+    - title: Areas of Research
       content: Take a look at what we're working on...
       align: center
       background:
-        position: right
+        position: center
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
+        media: algal.jpg
     - title: Endogenous viral elements
-      content: 'The viruses inside the genome'
-      align: left
+      content: 'The viral elements incoporated inside the genome of eukaryotes'
+      align: center
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: viral.png
+        media: endogenous.jpg
       link:
         text: Learn More
         url: ../projects/Endogenous_virus/
-    - title: Polar algae
-      content: 'Just opened last month!'
-      align: right
+    - title: Giant Virus Ecology
+      content: 'Looking at temporal and seasonal variation in Giant virus populations'
+      align: center
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: monterrey.jpg
       link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        text: Learn More
+        url: ../projects/Endogenous_virus/
 ---
