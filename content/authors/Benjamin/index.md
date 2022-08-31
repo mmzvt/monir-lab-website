@@ -2,10 +2,6 @@
 # Display name
 title: Benjamin Minch
 
-# Username (this should match the folder name)
-authors:
-  - Benjamin
-
 # Is this the primary user of the site?
 superuser: true
 
