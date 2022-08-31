@@ -2,9 +2,9 @@
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
 headless: true
-weight: 40
+weight: 30
 
-title: Latest News
+title: Lab News
 subtitle:
 
 content:
