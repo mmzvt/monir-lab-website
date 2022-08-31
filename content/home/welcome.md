@@ -1,7 +1,8 @@
-
+---
 widget: slider
 headless: true 
 weight: 1 # Order that this section will appear.
+active: true
 
 design:
   # Slide height is automatic unless you force a specific height (e.g. '400px')
@@ -53,3 +54,4 @@ content:
       link:
         text: Learn more
         url: 'https://www.earth.miami.edu/'
+---
