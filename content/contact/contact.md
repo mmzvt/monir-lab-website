@@ -15,8 +15,7 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: minchben@gmail.com
-  phone: 888 888 88 88
+  email: m.monir@miami.edu
   address:
     street: 4600 Rickenbacker Causeway
     city: Miami
@@ -29,15 +28,6 @@ content:
     longitude: '-80.16229' 
   # Automatically link email and phone or display as text?
   autolink: true
-
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
 
 design:
   columns: '1'
