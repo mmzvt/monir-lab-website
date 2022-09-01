@@ -3,7 +3,7 @@
 title: Benjamin Minch
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Ph.D. Student
@@ -65,7 +65,7 @@ user_groups:
   - Researchers
 ---
 
-Monir loves viruses, the giant ones.
+Scooby doo is my favorite movie
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
