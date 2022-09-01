@@ -7,14 +7,14 @@ main:
   - name: Research
     url: research
     weight: 10
-  - name: News
+  - name: Lab News
     url: post
     weight: 20
   - name: People
     url: people
     weight: 30
-  - name: Events
-    url: event
+  - name: Media
+    url: media
     weight: 40
   - name: Publications
     url: publication
@@ -22,3 +22,7 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  - name: Join the Lab
+    url: join
+    weight: 70
+   
